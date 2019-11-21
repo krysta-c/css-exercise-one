@@ -1,4 +1,4 @@
-body
+body {
   font-size: 14px;
 }
 
@@ -16,6 +16,7 @@ section {
   margin: 0 auto;
   width: 60%;
 }
+
 /** headers **/
 h1 {
   font-family: sans-serif;
